@@ -28,6 +28,8 @@ Operacje GET do zarządzania danymi VikingViki
 RESTful API dla prostego sposobu interakcji
 
 
+--------------------------------------------------------------------
+
 Java Version used in project SDK 22
 
 ktor_version used in project 3.0.0
