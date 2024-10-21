@@ -22,3 +22,56 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# === Systemowe pliki ===
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# === Pliki budowania ===
+# Gradle
+/build/
+/.gradle/
+/out/
+
+# Maven
+/target/
+
+# === Pliki konfiguracyjne IDE ===
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# === Pliki środowiskowe ===
+.env
+.env.local
+.env.*.local
+
+# === Pliki logów ===
+*.log
+
+# === Pliki tymczasowe i cache ===
+*.tmp
+*.swp
+*.swo
+*.lock
+.cache/
+.vscode/
+
+# === Zależności zewnętrzne ===
+node_modules/
+
+# === Inne pliki ===
+*.jar
+*.war
+*.ear
