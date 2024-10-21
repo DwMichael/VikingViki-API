@@ -26,3 +26,9 @@ Operacje GET do zarządzania danymi VikingViki
 Łatwa integracja z innymi częściami aplikacji VikingViki
 
 RESTful API dla prostego sposobu interakcji
+
+
+Java Version used in project SDK 22
+ktor_version used in project 3.0.0
+kotlin_version used in project 2.0.21
+logback_version used in project 1.4.14
