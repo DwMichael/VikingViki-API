@@ -1,5 +1,6 @@
 # VikingViki-API
-ENG------------------------------------------------------------------
+ENG
+--------------------------------------------------------------------
 
 VikingViki CRUD API
 
@@ -13,7 +14,9 @@ Easy integration with other parts of the VikingViki application
 
 RESTful API design for straightforward interaction
 
-PL------------------------------------------------------------------
+PL
+--------------------------------------------------------------------
+
 
 VikingViki CRUD API
 
