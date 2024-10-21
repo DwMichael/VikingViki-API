@@ -3,7 +3,7 @@ ENG------------------------------------------------------------------
 
 VikingViki CRUD API
 
-This repository contains a CRUD API for the VikingViki application. The API allows you to Read resources related to VikingViki, making it easy to manage data and interact with the backend system. The project is built using modern web technologies, ensuring efficiency and scalability.
+This repository contains a CRUD API for the VikingViki application. The API allows you to Read resources related to VikingViki, making it easy to manage data and interact with the backend system. The project is built using Kotlin and Ktor.
 
 Features:
 
@@ -17,7 +17,7 @@ PL------------------------------------------------------------------
 
 VikingViki CRUD API
 
-To repozytorium zawiera CRUD API dla aplikacji VikingViki. API umożliwia odczytywanie (GET) zasobów związanych z VikingViki, co ułatwia zarządzanie danymi i interakcję z systemem backendowym. Projekt jest zbudowany przy użyciu nowoczesnych technologii webowych, zapewniając wydajność i skalowalność.
+To repozytorium zawiera CRUD API dla aplikacji VikingViki. API umożliwia odczytywanie (GET) zasobów związanych z VikingViki, co ułatwia zarządzanie danymi i interakcję z systemem backendowym. Projekt jest zbudowany przy użyciu Kotlina oraz Ktor.
 
 Funkcje:
 
